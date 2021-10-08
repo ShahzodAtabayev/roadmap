@@ -8,11 +8,18 @@
 
 ## Dart Language
 
-- Typs
-- Class
-- Object
-- Interface
-- Constructor
+- Variables
+- Control flow statements
+- Functions
+- Imports
+- Exceptions
+- Classes
+- Inheritance
+- Mixins
+- Generics
+- Abstract classes
+- Asynchronous programming
+- NullSafety
 
 ## Design UI
 
