@@ -20,8 +20,16 @@
 
 - Introduction to widgets ⇒ [https://flutter.dev/docs/development/ui/widgets-intro](https://flutter.dev/docs/development/ui/widgets-intro)
 
-[Building layouts](https://www.notion.so/Building-layouts-c298a86e1adc4d2e98b4b8c442513885)
 
+**Building layouts**
+- Layouts in Flutter ⇒[https://flutter.dev/docs/development/ui/layout](https://flutter.dev/docs/development/ui/layout)
+- ListView
+- GridView
+- ExpansionTitle
+- Tutorial ⇒ [https://flutter.dev/docs/development/ui/layout/tutorial](https://flutter.dev/docs/development/ui/layout/tutorial)
+- Creating responsive and adaptive apps ⇒ [https://flutter.dev/docs/development/ui/layout/adaptive-responsive](https://flutter.dev/docs/development/ui/layout/adaptive-responsive)
+- Understanding constraints ⇒ [https://flutter.dev/docs/development/ui/layout/constraints](https://flutter.dev/docs/development/ui/layout/constraints)
+- Dealing with box constraints ⇒ [https://flutter.dev/docs/development/ui/layout/box-constraints](https://flutter.dev/docs/development/ui/layout/box-constraints)
 - Assets and images ⇒ [https://flutter.dev/docs/development/ui/assets-and-images](https://flutter.dev/docs/development/ui/assets-and-images)
 - Navigation & routing ⇒ [https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade](https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade)
 - Animations ⇒ [https://flutter.dev/docs/development/ui/animations](https://flutter.dev/docs/development/ui/animations)
@@ -31,16 +39,16 @@
 
 - Shared Preference ⇒ [https://medium.com/flutterdevs/using-sharedpreferences-in-flutter-251755f07127](https://medium.com/flutterdevs/using-sharedpreferences-in-flutter-251755f07127)
 - File Storage ⇒ [https://medium.com/kick-start-fluttering/saving-data-to-local-storage-in-flutter-e20d973d88fa](https://medium.com/kick-start-fluttering/saving-data-to-local-storage-in-flutter-e20d973d88fa)
-- Sqlite (moor) ⇒ [https://www.youtube.com/watch?v=zpWsedYMczM](https://www.youtube.com/watch?v=zpWsedYMczM)
+- Sqlite (moor, floor) ⇒ [https://www.youtube.com/watch?v=zpWsedYMczM](https://www.youtube.com/watch?v=zpWsedYMczM)
 
 
 **State management** 
 [https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro](https://flutter.dev/docs/development/data-and-backend/state-mgmt/intro)
 
-1. Provider ⇒ [https://www.youtube.com/watch?v=MkFjtCov62g](https://www.youtube.com/watch?v=MkFjtCov62g)
-2. setState
-3. BLoC / Rx ⇒ [https://www.youtube.com/watch?v=THCkkQ-V1-8](https://www.youtube.com/watch?v=THCkkQ-V1-8)
-4. GetX ⇒ [https://www.youtube.com/watch?v=ZnevdXDH25Q](https://www.youtube.com/watch?v=ZnevdXDH25Q)
+- Provider ⇒ [https://www.youtube.com/watch?v=MkFjtCov62g](https://www.youtube.com/watch?v=MkFjtCov62g)
+- setState
+- BLoC / Rx ⇒ [https://www.youtube.com/watch?v=THCkkQ-V1-8](https://www.youtube.com/watch?v=THCkkQ-V1-8)
+- GetX ⇒ [https://www.youtube.com/watch?v=ZnevdXDH25Q](https://www.youtube.com/watch?v=ZnevdXDH25Q)
 
 **Data & backend** 
 
